@@ -13,7 +13,7 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            The Rangitoto Reporter</span>
+            The Rangitoto Reporter
           </h1>
           <h2>A student-centered Journalism site for Rangitoto College in Auckland</h2>
         </div>

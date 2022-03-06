@@ -3,11 +3,22 @@
 
 html,
 body {
-  font-family: "Ubuntu", sans-serif;
-  background-color: #fff;
+  font-family: "Newsreader", serif;
   color: #222;
-  font-weight: 200;
+  background-color: #faf7f0;
   height: 100%;
+}
+
+.banner {
+  font-family: "UnifrakturCook", serif;
+  text-transform: capitalize;
+  text-align: center;
+  color: #0d2b47;
+  font-size: 80px;
+  margin: 0;
+  padding: 0 40px 20px 40px;
+  border-bottom: solid 3px #e30080;
+  margin: 0 auto;
 }
 
 #__next {
